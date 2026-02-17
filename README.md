@@ -2,6 +2,8 @@
 
 DevFinder is a sleek, modern web application that allows users to instantly retrieve GitHub profile statistics. This project demonstrates the practical use of API integration and asynchronous programming.
 
+[View the website]  https://nuprr.github.io/GitHub-Profile-Finder/
+
 ## ✨ Features
 - **Real-time Search:** Fetches data instantly from the GitHub REST API.
 - **Profile Insights:** Displays Bio, Followers, Following, and Public Repository counts.
